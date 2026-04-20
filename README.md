@@ -3,7 +3,7 @@
 This repository contains the implementation of our proposed method for improving re-ranking performance in segmentation-free keyword spotting (KWS) using query-conditioned multi-token attention.
 
 ## Overview of the proposed architecture
-![Overview of the proposed architecture](/architecture-overview.png)
+![Overview of the proposed architecture](/architecture-overview2.png)
 
 ## Requirements
 To run the code, install the following python packages:
